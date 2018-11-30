@@ -1,0 +1,42 @@
+body{
+    background: white;
+
+}
+
+#bio-logo{
+
+    width: 250px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;    
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    color:white;
+    text-emphasis-style: bold;
+    background-color: gray;
+}
+
+#main-bio{
+    color: black;
+
+}
+
+.myh3{
+    color: rebeccapurple;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+.myh2{
+    text-shadow: 50px;
+    font-weight: bold;
+    color: white;
+    background-color: gray;
+    background-size: 300px 100px;
+    display: inline-block
+}
+
